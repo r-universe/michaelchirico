@@ -1,9 +1,5 @@
 [
   {
-    "package": "funchir",
-    "oncran": true
-  },
-  {
     "package": "geohashTools",
     "oncran": true
   },
@@ -13,6 +9,10 @@
   },
   {
     "package": "vcov",
+    "oncran": true
+  },
+  {
+    "package": "funchir",
     "oncran": true
   }
 ]
