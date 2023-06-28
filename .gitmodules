@@ -1,25 +1,16 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "funchir"]
 	path = funchir
 	url = https://github.com/michaelchirico/funchir
-	shallow = true
-	registered = true
 [submodule "geohashTools"]
 	path = geohashTools
 	url = https://github.com/michaelchirico/geohashtools
-	shallow = true
-	registered = true
 [submodule "potools"]
 	path = potools
 	url = https://github.com/michaelchirico/potools
-	shallow = true
-	registered = true
 [submodule "vcov"]
 	path = vcov
 	url = https://github.com/michaelchirico/vcov
-	shallow = true
-	registered = true
